@@ -2,39 +2,39 @@
 <items version="2" >
 
     <item
-        jar="C:\Development\AndroidSet\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jar="C:\Users\USer\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
-        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1-d13efed891807b094392dadb7e9b54de685e6b77.jar" />
+        <dex dex="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_b9d56c9fddb149d5a1b1465a5e4eba3ce77941a0.jar" />
     </item>
     <item
-        jar="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
-        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\pre-dexed\debug\classes-f76f0029a3a77c1c8775a68682cbb4c51519f7d6.jar" />
-    </item>
-    <item
-        jar="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\classes.jar"
+        jar="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.0.1\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
-        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\pre-dexed\debug\classes-890f7098a052e3a068ebb2ed9379ab319f27657a.jar" />
+        <dex dex="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.0.1_7c2201381679743c42444f3a034641f828f1d6cc.jar" />
     </item>
     <item
-        jar="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\classes.jar"
-        jumboMode="false"
-        revision="22.0.1"
-        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
-        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\pre-dexed\debug\classes-2392bb069bfd0cbcd04793854d58a291024e64a1.jar" />
-    </item>
-    <item
-        jar="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\libs\internal_impl-23.0.1.jar"
+        jar="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
         jumboMode="false"
         revision="22.0.1"
         sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
-        <dex dex="C:\Users\haslina\AndroidStudioProjects\HelloRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1-6d69ccfb9c6b76ddaf11e6cbcc16de72facd34ce.jar" />
+        <dex dex="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_1f4f7b7d7738a2980020529a0e139b6b432be22a.jar" />
+    </item>
+    <item
+        jar="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_b1d22728f31f10cfa7f185377944c3228ae2ecf8.jar" />
+    </item>
+    <item
+        jar="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\USer\AndroidStudioProjects\LessonHelloRecyclerView\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_fa36c3c43552f94f28bdccb61b49b94e41e92944.jar" />
     </item>
 
 </items>
