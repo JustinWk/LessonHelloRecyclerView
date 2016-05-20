@@ -26,7 +26,8 @@ public class RVMainActivity extends AppCompatActivity {
         recyclerView.setHasFixedSize(true);
 
         // this is the data for our recycler view
-        ItemData itemsData[] = {new ItemData("Alkane", R.drawable.one),
+        //A change made
+        ItemData itemsData[] = {new ItemData("ALKANE", R.drawable.one),
                 new ItemData("Ethane", R.drawable.two),
                 new ItemData("Alkyne", R.drawable.three),
                 new ItemData("Benzene", R.drawable.four),
